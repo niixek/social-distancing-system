@@ -1,4 +1,4 @@
-# social-distancing-system
+# Social Distancing System
 
 This project was created for the CSE 321 class at the University at Buffalo.
 
